@@ -23,7 +23,7 @@ By the end of this project, we expect to:
 
 # #TODO
 
-- [ ]  Get the data
+- [x]  Get the data
 - [ ]  Prepare the data
 - [ ]  Analyse the data in a jupyter notebook
 - [ ]  Sum up conclusions
