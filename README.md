@@ -24,7 +24,7 @@ By the end of this project, we expect to:
 # #TODO
 
 - [x]  Get the data
-- [ ]  Prepare the data
+- [x]  Prepare the data
 - [ ]  Analyse the data in a jupyter notebook
 - [ ]  Sum up conclusions
 - [ ]  Present the outcomes in a Tableau presentation
